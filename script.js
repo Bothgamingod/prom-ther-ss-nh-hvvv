@@ -52,11 +52,11 @@ function shrinkNoButton() {
 function generateMessage(noCount) {
   const messages = [
     "No 😔",
-    "ot sl nh he men? 😖",
-    "yor nh hv nh smos hah🥹",
-    "ot ey heh jg :( 🙁",
+    "你为什么不爱我? 😖",
+    "nh smos ah ot jer eh chui🥹",
+    "ot lers nah hei :( 🙁",
     "67 blah blah? 💔",
-    "Nh yum leryyy... 😭",
+    "Nh yum leryyy.😭",
   ];
   return messages[Math.min(noCount, messages.length - 1)];
 }
