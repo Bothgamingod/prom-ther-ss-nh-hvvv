@@ -55,7 +55,7 @@ function generateMessage(noCount) {
     "ot sl nh he men? 😖",
     "yor nh hv nh smos hah🥹",
     "ot ey heh jg :( 🙁",
-    "chop sl nh hy men? 💔",
+    "67 blah blah? 💔",
     "Nh yum leryyy... 😭",
   ];
   return messages[Math.min(noCount, messages.length - 1)];
