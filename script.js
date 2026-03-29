@@ -53,7 +53,7 @@ function generateMessage(noCount) {
   const messages = [
     "No 😔",
     "你为什么不爱我? 😖",
-    "nh smos ah ot jer eh chui🥹",
+    "i could give you a princess treatment <3🥹",
     "ot lers nah hei :( 🙁",
     "67 blah blah? 💔",
     "Nh yum leryyy.😭",
